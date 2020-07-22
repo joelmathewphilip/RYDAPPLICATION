@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498112204980",
+    "firebase_url": "https://rydapplication.firebaseio.com",
+    "project_id": "rydapplication",
+    "storage_bucket": "rydapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498112204980:android:8d7be018cef3bf975987e1",
+        "android_client_info": {
+          "package_name": "com.example.rydapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498112204980-373qenr06vmvdia0ug3ijt0rov185n4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rydapplication",
+            "certificate_hash": "8567b272b114455afd6d375fe60c743e76756642"
+          }
+        },
+        {
+          "client_id": "498112204980-rvi6ahar1gcon7jvivjanb3q585p98gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKNVCab-4Vcc0En1XyhNIV2t_MLmsph4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498112204980-rvi6ahar1gcon7jvivjanb3q585p98gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
